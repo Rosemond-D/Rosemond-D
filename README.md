@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner-friendly projects and open-source contributions.
 - 📫 How to reach me: You can reach me via email at rosemonetoranam@gmail.com.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When I'm not coding, I love exploring digital art and playing the piano.
+- ⚡ Fun fact: When I'm not coding, I love exploring digital art.
 
 <!---
 Rosemond-D/Rosemond-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
